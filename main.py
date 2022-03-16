@@ -1,3 +1,3 @@
 import fastapi
 
-print("hello fast!")
+print("hello fast!")    
